@@ -31,8 +31,8 @@
     "eventsource-polyfill": "^0.9.6",
     "express": "^4.13.3",
     "rimraf": "^2.4.3",
-    "webpack": "^1.12.9",
-    "webpack-dev-middleware": "^1.4.0",
+    "webpack": "^5.94.0",
+    "webpack-dev-middleware": "^7.4.2",
     "webpack-hot-middleware": "^2.9.1"
   },
   "dependencies": {
